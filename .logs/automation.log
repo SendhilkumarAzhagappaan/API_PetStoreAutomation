@@ -1,0 +1,16 @@
+2023-09-12 16:18:49 INFO  UserTests:43 - ************ Creating User *****************
+2023-09-12 16:18:54 INFO  UserTests:50 - ************ User is Created *****************
+2023-09-12 16:18:54 INFO  UserTests:57 - ************ Reading user Info *****************
+2023-09-12 16:18:55 INFO  UserTests:63 - ************ User info is displayed *****************
+2023-09-12 16:18:55 INFO  UserTests:70 - ************ Updating User *****************
+2023-09-12 16:18:58 INFO  UserTests:86 - ************ User is updated *****************
+2023-09-12 16:18:58 INFO  UserTests:91 - ************ Deleting User *****************
+2023-09-12 16:19:00 INFO  UserTests:94 - ************ User Deleted *****************
+2023-09-12 16:22:34 INFO  UserTests:43 - ************ Creating User *****************
+2023-09-12 16:22:37 INFO  UserTests:50 - ************ User is Created *****************
+2023-09-12 16:22:37 INFO  UserTests:57 - ************ Reading user Info *****************
+2023-09-12 16:22:38 INFO  UserTests:63 - ************ User info is displayed *****************
+2023-09-12 16:22:38 INFO  UserTests:70 - ************ Updating User *****************
+2023-09-12 16:22:42 INFO  UserTests:86 - ************ User is updated *****************
+2023-09-12 16:22:42 INFO  UserTests:91 - ************ Deleting User *****************
+2023-09-12 16:22:43 INFO  UserTests:94 - ************ User Deleted *****************
